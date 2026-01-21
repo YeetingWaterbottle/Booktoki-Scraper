@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        booktoki469 Scraper
+// @name        Booktoki Scraper
 // @namespace   Violentmonkey Scripts
-// @match       https://booktoki469.com/novel/*
+// @match       *://booktoki*.com/novel/*
 // @grant       none
 // @version     1.0
 // @author      -
