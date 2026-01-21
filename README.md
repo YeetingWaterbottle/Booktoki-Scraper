@@ -5,6 +5,9 @@ The page will ban your ip if interval or the number of requests are too high.
 
 Timing can be modified in the main function.
 
+## Usage
+You have to update the @matching url in the userscript to the latest domain
+
 Any userscript manager should work fine, I used [violentmonkey](https://violentmonkey.github.io/).
 
 Start on chapter x, it will automatically save the content to file, then move onto the next chapter after a slight delay.

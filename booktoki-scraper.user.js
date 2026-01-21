@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name        Booktoki Scraper
 // @namespace   Violentmonkey Scripts
-// @match       *://booktoki*.com/novel/*
+// @match       *://booktoki_.com/novel/*
 // @grant       none
 // @version     1.0
 // @author      -
 // @run-at      document-idle
-// @description Saves the novel chapter to file
+// @description Saves the novel chapter to file, change the matching url to latest
 // ==/UserScript==
 
 const chapterViewer = document.querySelector("#novel_content > div:nth-child(2)")
